@@ -11,6 +11,8 @@
 
 - 🏫 Student at <a href="https://www.nu.edu.pk/">**FAST NU LHR**</a>
 
+- Working at <a href="https://cuthours.com/">**CutHours**</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
