@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadsaboorislam&show_icons=true&locale=en&layout=compact" alt="muhammdsaboorislam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadsaboorislam&show_icons=true&locale=en" alt="muhammdsaboorislam" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsaboorislam&" alt="muhammdsaboorislam" /></p>
