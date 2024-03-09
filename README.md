@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saboor Islam</h1>
-<h3 align="center">A passionate python & React developer from Pakistan</h3>
+<h3 align="center">Python Developer | Automation | AI | Scraping | Web Development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadsaboorislam" alt="muhammdsaboorislam" /></a> </p>
 
