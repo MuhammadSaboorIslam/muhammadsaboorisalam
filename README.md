@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **python**
-
 - 📫 How to reach me **muhammadsaboor119@gmail.com**
 
-- ⚡ Fun fact **I can adapt :)**
+- 🏫 Student at <a href="https://www.nu.edu.pk/">**FAST NU LHR**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
