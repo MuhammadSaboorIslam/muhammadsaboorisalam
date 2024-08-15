@@ -21,3 +21,28 @@
 </div>
 
 ###
+
+
+
+## 🛠 Skills
+- Python
+- React
+- Next.js
+- Airtable
+- PythonAnywhere
+- Microsoft Power Automate
+- Gdevelop
+- Scratch 
+- Itch.io
+
+
+## 🛠 Worked with 
+
+- Peter Alkema (https://www.peteralkema.com/)
+    - https://wasilislam.pythonanywhere.com  
+- David from IT 360 (https://it360.co.nz/)
+    - Mostly Python Related work 
+    - Building Doc Parser (https://testing-wasilislam.pythonanywhere.com/purchase_orders)
+    - Airtable
+- AHD HealthCare 
+    - MA Health Care site components
